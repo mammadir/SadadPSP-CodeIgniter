@@ -1,2 +1,2 @@
 # SadadPSP-CodeIgniter
-SadadPSP CodeIgniter 4 Sample Code
+ CodeIgniter 4 Sample Code SadadPSP Payment Gateway

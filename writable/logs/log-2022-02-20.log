@@ -1,0 +1,101 @@
+CRITICAL - 2022-02-20 05:32:51 --> Call to a member function tst() on null
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Sadad->index()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sadad))
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:33:11 --> Call to a member function library() on null
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Sadad->index()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sadad))
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:38:40 --> Class 'sadad_lib' not found
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Sadad->index()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sadad))
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:38:42 --> Class 'sadad_lib' not found
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Sadad->index()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sadad))
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:40:33 --> Class 'App\Libraries\sadad\sadad_lib' not found
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Sadad->index()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sadad))
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:40:34 --> Class 'App\Libraries\sadad\sadad_lib' not found
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Sadad->index()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sadad))
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:40:50 --> Class 'App\Libraries\sadad' not found
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Sadad->index()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sadad))
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:42:07 --> Call to a member function library() on null
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(802): App\Controllers\Sadad->__construct()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:42:30 --> Call to a member function library() on null
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(802): App\Controllers\Sadad->__construct()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:44:16 --> Call to a member function library() on null
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(802): App\Controllers\Sadad->__construct()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:45:32 --> Call to undefined function App\Controllers\get_instance()
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(802): App\Controllers\Sadad->__construct()
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#5 {main}
+CRITICAL - 2022-02-20 05:55:15 --> syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Sadad')
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Sadad')
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#6 {main}
+CRITICAL - 2022-02-20 07:04:10 --> syntax error, unexpected 'var_dump' (T_STRING)
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Sadad/verify')
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Sadad/verify')
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#6 {main}
+CRITICAL - 2022-02-20 07:05:21 --> Invalid numeric literal
+#0 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Sadad')
+#1 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Sadad')
+#2 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Admins\Desktop\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Admins...')
+#6 {main}
